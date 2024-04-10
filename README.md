@@ -1,1 +1,1 @@
-# COVID-19-data-exploration-with-SQL
+# COVID19-data-exploration-with-SQL
